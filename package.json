@@ -1,0 +1,23 @@
+{
+  "name": "notary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yenming/notary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yenming/notary/issues"
+  },
+  "homepage": "https://github.com/yenming/notary#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "forever": "^3.0.0"
+  }
+}
